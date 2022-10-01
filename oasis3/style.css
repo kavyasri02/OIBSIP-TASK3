@@ -1,0 +1,37 @@
+*{
+    background-color: rgba(231, 231, 231, 0.863);
+    color: rgb(8, 162, 217);
+}
+
+label{
+    font-size:20px;
+}
+.container{
+    text-align: center;
+    margin-top: 100px;
+    height: 100vh;
+}
+
+
+input {
+    border-color: rgb(0, 0, 0);
+    font-size: 20px;
+}
+
+.button{
+background-color: rgb(238, 12, 163);
+color: rgb(16, 6, 6);
+height: auto;
+width: 200px;
+border: none;
+padding: 12px;
+border-radius: 10px;
+font-weight: bold;
+}
+
+.button:hover{
+    background-color: rgb(208, 0, 31);
+    cursor: pointer;
+    color: black;
+    font-weight: bold;
+}
